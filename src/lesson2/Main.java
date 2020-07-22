@@ -17,7 +17,6 @@ public class Main {
         System.out.println(arrBalance(new int[]{1, 1, 1, 2, 1}));
         System.out.println(arrBalance(new int[]{2, 1, 1, 2, 1}));
         System.out.println(arrBalance(new int[]{10, 10}));
-
         System.out.println("\nTask 7:");
         modArray(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9}, -2);
         System.out.println("\nTask 7.1:");
